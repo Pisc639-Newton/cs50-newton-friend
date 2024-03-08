@@ -1,0 +1,1 @@
+# cs50-newton-friend
